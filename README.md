@@ -17,4 +17,3 @@ An easy to customize whitelist dApp
 **Enjoy your whitelist app**
 
 
-****Did you know you can support me? Click on my profile!****
